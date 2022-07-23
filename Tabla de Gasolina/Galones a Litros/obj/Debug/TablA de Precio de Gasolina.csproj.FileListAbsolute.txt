@@ -1,0 +1,11 @@
+C:\Users\Usuario\Source\Repos\TabladeGasolinaVariable\Tabla de Gasolina\Galones a Litros\bin\Debug\Galones a Litros.exe.config
+C:\Users\Usuario\Source\Repos\TabladeGasolinaVariable\Tabla de Gasolina\Galones a Litros\bin\Debug\Galones a Litros.exe
+C:\Users\Usuario\Source\Repos\TabladeGasolinaVariable\Tabla de Gasolina\Galones a Litros\bin\Debug\Galones a Litros.pdb
+C:\Users\Usuario\Source\Repos\TabladeGasolinaVariable\Tabla de Gasolina\Galones a Litros\obj\Debug\TablA de Precio de Gasolina.csproj.AssemblyReference.cache
+C:\Users\Usuario\Source\Repos\TabladeGasolinaVariable\Tabla de Gasolina\Galones a Litros\obj\Debug\TablA de Precio de Gasolina.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Source\Repos\TabladeGasolinaVariable\Tabla de Gasolina\Galones a Litros\obj\Debug\Galones_a_Litros.Form1.resources
+C:\Users\Usuario\Source\Repos\TabladeGasolinaVariable\Tabla de Gasolina\Galones a Litros\obj\Debug\Galones_a_Litros.Properties.Resources.resources
+C:\Users\Usuario\Source\Repos\TabladeGasolinaVariable\Tabla de Gasolina\Galones a Litros\obj\Debug\TablA de Precio de Gasolina.csproj.GenerateResource.cache
+C:\Users\Usuario\Source\Repos\TabladeGasolinaVariable\Tabla de Gasolina\Galones a Litros\obj\Debug\TablA de Precio de Gasolina.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\TabladeGasolinaVariable\Tabla de Gasolina\Galones a Litros\obj\Debug\Galones a Litros.exe
+C:\Users\Usuario\Source\Repos\TabladeGasolinaVariable\Tabla de Gasolina\Galones a Litros\obj\Debug\Galones a Litros.pdb
